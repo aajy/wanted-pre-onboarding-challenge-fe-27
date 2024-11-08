@@ -1,7 +1,7 @@
 ---
-name: "[Bug]"
+name: Bug report
 about: 오류를 수정할 때 사용하는 템플릿입니다.
-title: ''
+title: "[Bug]"
 labels: ''
 assignees: ''
 
